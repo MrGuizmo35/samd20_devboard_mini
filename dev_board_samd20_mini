@@ -1,0 +1,9 @@
+Reference, Quantity, Value, Footprint, Datasheet
+C1 ,1,"1uF","Capacitors_SMD:C_0805",""
+C2 ,1,"100nF","Capacitors_SMD:C_0805",""
+C3 ,1,"1uF","Capacitors_Tantalum_SMD:CP_Tantalum_Case-B_EIA-3528-21_Hand",""
+J1 ,1,"Conn_02x05_Odd_Even","Pin_Headers:Pin_Header_Straight_2x05_Pitch1.27mm",""
+J2 J4 ,2,"Conn_01x16","Pin_Headers:Pin_Header_Straight_1x16_Pitch2.54mm",""
+J3 ,1,"Conn_01x10","Pin_Headers:Pin_Header_Straight_1x10_Pitch2.54mm",""
+R1 ,1,"4K7","Resistors_SMD:R_0805",""
+U1 ,1,"SAMD20G18A-AU","Housings_QFP:TQFP-48_7x7mm_Pitch0.5mm",""
